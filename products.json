@@ -1,0 +1,12 @@
+[
+  {
+    "name": "منتج 1",
+    "price": 10,
+    "image": "https://via.placeholder.com/220"
+  },
+  {
+    "name": "منتج 2",
+    "price": 15,
+    "image": "https://via.placeholder.com/220"
+  }
+]
